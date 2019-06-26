@@ -1,0 +1,1 @@
+# knative-eventing-cronjob_receive_adapter
